@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1685606915 source:c:\users\Никита\desktop\work 3\testcmp.cpp
+	<iostream>
+	"mycomplex.h"
+
+1685606914 c:\users\Никита\desktop\work 3\mycomplex.h
+	<iostream>
+
